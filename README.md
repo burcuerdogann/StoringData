@@ -1,5 +1,5 @@
 # StoringData
 
-Android Development / Java Tutorials - Lesson 7
+Android Development / Java Tutorial - Lesson 7
 
 Shared Preferences
